@@ -3,7 +3,7 @@
 const Ninjas = () => {
   return (
     <div>
-      All Ninjas
+      <h1>All Ninjas</h1>
     </div>
   )
 }
